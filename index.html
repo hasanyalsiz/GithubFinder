@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0"
+    />
+    <title>Document</title>
+    
+    
+    <!-- bs bağlantı -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.1/css/bootstrap.min.css"
+    />
+    <link id="light-mode-stylesheet" rel="stylesheet" href="style.css" disabled>
+  </head>
+  <body class="bg-dark text-bg-dark">
+    <!-- üst kısım -->
+    <header class="navbar navbar-dark p-3">
+      <div class="container">
+        <a href="/" class="navbar-brand">Github Bulucu</a>
+        <button id="mode-toggle-btn" class="btn btn-light">Karanlık Mod</button>
+      </div>
+    </header>
+
+    <!-- form alanı -->
+    <div class="container mt-4">
+      <div class="border p-3">
+        <h1>Github Kullanıcı Adını Ara</h1>
+        <p>
+          Kullanıcı bilgilerine erişmek için bir kullanıcı adı giriniz
+        </p>
+        <div class="d-flex gap-3">
+          <input id="search-input" class="form-control" type="text" />
+          <button id="search-btn" class="btn btn-primary btn-lg">
+            Ara
+          </button>
+          
+        </div>
+        <div id="alertDiv" class="alert" role="alert">
+          
+        </div>
+      </div>
+    </div>
+
+    <!-- Kullanıcı Bilgileri alanı -->
+    <div id="profile" class="container p-4"></div>
+
+    <!-- Kullanıcı Projeleri -->
+    <div id="repos" class="container p3">
+      
+    </div>
+
+    <!-- js bağlantı -->
+    <script src="app.js" type="module"></script>
+  </body>
+</html>

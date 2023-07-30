@@ -1,0 +1,13 @@
+body.bg-dark {
+  background-color: #ffffff !important; /* Light gray background */
+  color: #333 !important; /* Dark text color */
+}
+
+body #profile .row .col-md-9 ul li {
+  background-color: #ffffff !important;
+  color: black !important;
+}
+
+body a {
+  color: black !important;
+}/*# sourceMappingURL=style.css.map */
