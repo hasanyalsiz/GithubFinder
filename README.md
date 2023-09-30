@@ -14,7 +14,7 @@ Bu proje, kullanıcıların girilen Github kullanıcı adı ile kişinin profil 
 ### Ekran Modları
 
 1. Karanlık(gece) Modu: Kullanıcılara göz yorgunluğunu azaltmak için koyu renkli arayüz sağlar.
-2. Aydınlık Modu: Kullanıcılara daha rahat okuma imkanı sunmak için açık renkli arayüz sağlar.
+2. Aydınlık(gündüz) Modu: Kullanıcılara daha rahat okuma imkanı sunmak için açık renkli arayüz sağlar.
 
 ### Kullanım
 
