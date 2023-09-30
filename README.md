@@ -6,7 +6,7 @@ Bu proje, kullanıcıların girilen Github kullanıcı adı ile kişinin profil 
 
 ### Proje Özellikleri
 
-- Kullanıcıların Github kullanıcı adını girdiği basit bir arayüz.
+- Kullanıcıların Github kullanıcı adını girdiği basit bir arayüz mevcut.
 - Girilen kullanıcı adına göre kişinin profil bilgilerini getirme.
 - Projenin sade ve anlaşılır tasarımı ile kolay kullanılabilirlik.
 - Yanlış ve boş girişlerde kullanıcıları uyarı metni ile bilgilendirme.
