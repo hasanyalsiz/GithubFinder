@@ -18,7 +18,7 @@ Bu proje, kullanıcıların girilen Github kullanıcı adı ile kişinin profil 
 
 ### Kullanım
 
-1. Projeyi çalıştırın ve web tarayıcınızda açın.
+1. Projeyi çalıştırın ve web tarayıcınızda açın...
 2. Arama kutusuna bir Github kullanıcı adı girin ve "Ara" düğmesine tıklayın.
 3. Kullanıcının profil bilgileri ekranda düzenli bir şekilde gösterilecektir.
 4. Eğer kullanıcı adı yanlış veya boş ise, uyarı metni ekranda belirecektir.

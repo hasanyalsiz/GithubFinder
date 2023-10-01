@@ -1,0 +1,56 @@
+git --help ( komutları gösterir )
+q enter ( quit )
+
+-git status ( durum bakma )
+
+-Bir proje yüklerken yapılacaklar
+1-cd boşluk klasörü sürükle Git e
+1-echo ...
+2-git init
+3-git add .
+4-git commit -m "first commit"
+5- git branch -M main
+6-git remote add origin (link)
+7-git push -u origin main
+
+-kısayol
+"cd .." (bulunduğun klasörün bir klasör gerisine gel)
+"cd 
+
+
+-"github'a kod push'larken kullanılacak kodlar. ( remote'deki kodu güncellemek )"
+0-cd dosyanı git bush ın içerisine at
+1-git add .
+2-git commit -m "açıklama"
+3-git push (origin main)
+
+-"clone ( remote'deki kodları kendi pc mize aktarma ve üzerinde çalışma )"
+0-boş bir klasör aç
+1-cd yaz ve klasörü bash a sürükle
+2-git clone yaz ve github daki projenin linkini yapıştır.
+
+-(pull)"projede yapılan değişikliği pc mize almak için"
+0-cd dosyanı git bush ın içerisine at
+1-git pull
+
+-force (kodları ezmek için)
+git push -f
+
+-conflict (aynı yerin çakışması - karşılaştırma)
+
+-git reflog (yapılan tüm değişiklikleri ve id lerini gösterir)
+
+-git branch (dalları gösterir ve olduğun dalı * ile sana gösterir)
+-git chechout versiyonnumarası ( versiyon değiştirmek için )
+-git branch ilker-react ( dal oluşturmak için )
+-git checkout ilker-react ( dal değiştirmek için )
+-git push origin ilker-react
+
+-merge birleştirmek, aktarmak
+git merge ilker-react ( nereyi birleştirmek istediğini yazıyoruz )
+git merge main
+
+-git diff sürümno sürümno ( iki sürüm arasındaki değişiklikleri karşılaştırma )
+
+-git remote -v bağlı olduğun addresi gösterir
+git remote set-url origin link (yeni bir address belirler)
