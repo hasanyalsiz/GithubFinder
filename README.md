@@ -29,8 +29,8 @@ Bu proje aşağıdaki teknolojiler kullanılarak geliştirilmiştir:
 
 - HTML,
 - CSS,
-- JavaScript
-- Github API (Kullanıcı profillerini çekmek için)
+- JavaScript,
+- Github API-Fetch (Kullanıcı profillerini çekmek için)
 
 
 
