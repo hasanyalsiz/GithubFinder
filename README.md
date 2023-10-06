@@ -30,7 +30,7 @@ Bu proje aşağıdaki teknolojiler kullanılarak geliştirilmiştir:
 - HTML
 - CSS
 - JavaScript
-- Github API (Kullanıcı profillerini çekmek için)
+- Github API (Kullanıcı profillerini çekmek için,Fetch)
 
 
 
