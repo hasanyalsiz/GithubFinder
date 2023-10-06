@@ -27,10 +27,10 @@ Bu proje, kullanıcıların girilen Github kullanıcı adı ile kişinin profil 
 
 Bu proje aşağıdaki teknolojiler kullanılarak geliştirilmiştir:
 
-- HTML
-- CSS
+- HTML,
+- CSS,
 - JavaScript
-- Github API (Kullanıcı profillerini çekmek için,Fetch)
+- Github API (Kullanıcı profillerini çekmek için)
 
 
 
